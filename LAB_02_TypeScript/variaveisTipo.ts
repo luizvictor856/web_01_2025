@@ -1,0 +1,1 @@
+// começar a adiconar as dicas 
