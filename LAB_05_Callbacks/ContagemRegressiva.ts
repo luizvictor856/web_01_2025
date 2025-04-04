@@ -26,3 +26,5 @@ true após processá-la
  Parar a execução com clearInterval após todas as tarefas serem concluídas
  Interromper imediatamente a execução se encontrar uma tarefa com descrição igual a "Cancelar",
 sem chamar o callback para esta tarefa */
+
+console.log ("Hello World")
